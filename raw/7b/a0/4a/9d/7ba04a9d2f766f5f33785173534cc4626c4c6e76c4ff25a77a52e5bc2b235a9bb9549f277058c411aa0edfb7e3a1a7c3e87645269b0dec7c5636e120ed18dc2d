@@ -1,0 +1,9 @@
+version: 1.4.8
+files:
+  - url: Another-Redis-Desktop-Manager.1.4.8.AppImage
+    sha512: 0CYHG6uClFh3cf6zo2E6lj7Xj/aeG2P6/hq4zQiAqU/dzuUoXwXSKMQp5umxBVj6qocUTIqLHoMTt5Y8RglV/Q==
+    size: 79082765
+    blockMapSize: 83233
+path: Another-Redis-Desktop-Manager.1.4.8.AppImage
+sha512: 0CYHG6uClFh3cf6zo2E6lj7Xj/aeG2P6/hq4zQiAqU/dzuUoXwXSKMQp5umxBVj6qocUTIqLHoMTt5Y8RglV/Q==
+releaseDate: '2021-07-02T11:58:58.067Z'
