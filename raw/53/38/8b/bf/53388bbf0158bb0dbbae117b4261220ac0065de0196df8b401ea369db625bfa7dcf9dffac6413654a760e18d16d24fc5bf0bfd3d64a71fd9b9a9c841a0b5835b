@@ -1,0 +1,9 @@
+version: 1.2.1
+files:
+  - url: Another.Redis.Desktop.Manager.1.2.1.AppImage
+    sha512: i6GF6oIesAdfHqJ3ttT5Ab83tWKQEobjciaruzRisMLAoToz9gOIx8sWwNqqopSd1xyiLfx5YZyDpZiRR85hRA==
+    size: 78079896
+    blockMapSize: 82140
+path: Another.Redis.Desktop.Manager.1.2.1.AppImage
+sha512: i6GF6oIesAdfHqJ3ttT5Ab83tWKQEobjciaruzRisMLAoToz9gOIx8sWwNqqopSd1xyiLfx5YZyDpZiRR85hRA==
+releaseDate: '2019-06-01T06:12:17.608Z'
