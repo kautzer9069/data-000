@@ -1,0 +1,9 @@
+version: 1.3.6
+files:
+  - url: Another-Redis-Desktop-Manager.1.3.6.AppImage
+    sha512: OYaROCLpfe0c4l7UitEsUegSfDhYW6ZfHTvkam64aXwUXIz14VPh5CNWiwtjj8FS/2ZsaVkDEdBKSMK7ZEmTIQ==
+    size: 77626748
+    blockMapSize: 81296
+path: Another-Redis-Desktop-Manager.1.3.6.AppImage
+sha512: OYaROCLpfe0c4l7UitEsUegSfDhYW6ZfHTvkam64aXwUXIz14VPh5CNWiwtjj8FS/2ZsaVkDEdBKSMK7ZEmTIQ==
+releaseDate: '2020-06-02T02:14:51.063Z'
